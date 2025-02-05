@@ -2,9 +2,9 @@
 This HR dashboard analyzes employee attrition, visualizing key metrics like overall attrition rate and count. It breaks down attrition by gender, education level, and job role, highlighting areas with higher attrition. 
 
 
-# HR Analytics Dashboard - Insights and Observations
+# Insights and Observations
 
-This README file provides insights and observations derived from the HR Analytics Dashboard image. The dashboard offers a comprehensive overview of key HR metrics, focusing on attrition analysis and employee demographics. 
+
 
 
 ## Key Metrics and Trends
